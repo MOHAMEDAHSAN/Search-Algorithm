@@ -96,7 +96,7 @@ else:
 ```
 ## Sample Input and Output
 i)	#Use a linear search method to match the item in a list.
-![ls](C:\Users\ahsan\Search-Algorithm\ls.png)
+![ls](\C:\Users\ahsan\Search-Algorithm\ls.png)
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ![bs](bs.png)
 iii)	# Find the element in a list using Binary Search (recursive Method).
